@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <img src="docs/screenshots/1Capture_2026-06-29_12.57.06.png" alt="SAEP" width="200">
-  <br>
+  
   SAEP
   <br>
 </h1>
@@ -74,39 +72,29 @@
 
 ## 📸 Screenshots
 
-> 占位，请替换为实际截图。截图建议见 [docs/screenshots/](docs/screenshots/)。
 
-<details>
-<summary>点击展开截图预览</summary>
 
 | 登录 | 首页 Dashboard |
 |------|----------------|
 | <img width="599" height="365" alt="image" src="https://github.com/user-attachments/assets/430dffaa-47b0-4301-9f6f-11ae37858682" />
-<img width="1714" height="518" alt="image" src="https://github.com/user-attachments/assets/e5b4c77c-ef8c-4e36-a9c5-7cd6e1ea5de4" />
-
- |
+<img width="1714" height="518" alt="image" src="https://github.com/user-attachments/assets/e5b4c77c-ef8c-4e36-a9c5-7cd6e1ea5de4" />|
 
 | 成果列表 | 成果提交 |
 |----------|----------|
 |<img width="1242" height="623" alt="image" src="https://github.com/user-attachments/assets/84507288-bc04-461d-a72e-692d4747d22d" />
-<img width="1219" height="833" alt="image" src="https://github.com/user-attachments/assets/0158c76a-61c4-42cc-941a-935ff37fbcd3" />
-
-|
+<img width="1219" height="833" alt="image" src="https://github.com/user-attachments/assets/0158c76a-61c4-42cc-941a-935ff37fbcd3" />|
 
 | 审核管理 | 公示管理 |
 |----------|----------|
 | <img width="1231" height="552" alt="image" src="https://github.com/user-attachments/assets/cb742bbc-550b-48a9-abac-198744754e53" />
-<img width="2442" height="1038" alt="image" src="https://github.com/user-attachments/assets/84578b36-9d02-4b16-a5a2-74950a8ba532" />
-
-|
+<img width="2442" height="1038" alt="image" src="https://github.com/user-attachments/assets/84578b36-9d02-4b16-a5a2-74950a8ba532" />|
 
 | 我的成绩 | 排行榜 |
 |----------|--------|
 |<img width="1220" height="525" alt="image" src="https://github.com/user-attachments/assets/a1bfb61e-2391-4121-8c2c-f2e6029cf2f6" />
- <img width="1214" height="684" alt="image" src="https://github.com/user-attachments/assets/ee1291e1-755d-4a3c-9027-9213dd2ed789" />
-|
+ <img width="1214" height="684" alt="image" src="https://github.com/user-attachments/assets/ee1291e1-755d-4a3c-9027-9213dd2ed789" />|
 
-</details>
+ 
 
 ## 🧱 技术栈
 
