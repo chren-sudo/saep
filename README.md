@@ -352,5 +352,5 @@ cd frontend && npm install && npm run build    # dist/ 即部署产物
 ---
 
 <p align="center">
-  <b>🎉 SAEP v1.0 — 51/51 TASK — 137 tests — 全部通过</b>
+  <b>🎉 Vibe Coding SAEP v1.0 </b>
 </p>
